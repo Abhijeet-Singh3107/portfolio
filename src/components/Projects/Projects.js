@@ -131,8 +131,8 @@ function Projects() {
               isBlog={false}
               title="Portfolio Website"
               description="Crafted an interactive portfolio website with React.js to creatively exhibit my technical skills and personal projects."
-              ghLink="https://github.com/Abhijeet-Singh3107/youtube-text-analysis"
-              demoLink="https://youtube-analysis.vercel.app"
+              ghLink="https://github.com/Abhijeet-Singh3107/portfolio"
+              demoLink="https://portfolio-one-hazel-72.vercel.app/"
             />
           </Col>
         </Row>
