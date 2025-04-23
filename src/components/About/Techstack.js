@@ -22,6 +22,7 @@ import {
   SiC,
   SiGit,
   SiHtml5,
+  SiAngular,
 } from "react-icons/si";
 import { TbBrandGolang } from "react-icons/tb";
 
@@ -35,7 +36,7 @@ function Techstack() {
         <DiJavascript1 />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiR />
+        <SiAngular/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJava />

@@ -10,25 +10,28 @@ import {
   SiTableau,
   SiApachehadoop,
   SiLinux,
+  SiMongodb,
+  SiReact,
+  SiNodedotjs,
 } from "react-icons/si";
 
 function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <SiLinux />
+        <SiReact />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiVisualstudiocode />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiRstudio />
+        <SiNodedotjs/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiTableau />
+        <SiPostman />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiApachehadoop />
+        <SiMongodb />
       </Col>
     </Row>
   );

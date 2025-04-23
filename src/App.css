@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.custom-link {
+  color: white; /* purple */
+  text-decoration: none;
+}
+
+.custom-link:hover {
+  text-decoration: underline;
+  color: purple; /* slightly darker purple on hover */
+}
+

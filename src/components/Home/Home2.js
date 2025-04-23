@@ -27,21 +27,20 @@ function Home2() {
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Data Science and Machine Learning </b> and
-                also in areas related to{" "}
-                <b className="purple">Web Development.</b>
+                <b className="purple">Full Stack Web Development. </b>{" "}
+                <b className="purple"></b>
               </i>
               <br />
               <br />
               Whenever possible, I also apply my passion for developing projects
               with <b className="purple">Python</b> and
               <i>
-                <b className="purple"> it's modules</b>
+                <b className="purple"> it's modules.</b>
               </i>
-              &nbsp; like
-              <i>
+              {/* &nbsp; like */}
+              {/* <i>
                 <b className="purple"> TensorFlow and Scikit-learn</b>
-              </i>
+              </i> */}
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -69,7 +68,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/apshvs"
+                  href="https://x.com/i_m_abhiijeet"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -79,7 +78,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/apshvs"
+                  href="https://www.linkedin.com/in/abhijeetsingh31"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -89,7 +88,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="mailto:akshay@example.com" // <-- Replace with your email
+                  href="mailto:abhijeetsingh3102@gmail.com" // <-- Replace with your email
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
